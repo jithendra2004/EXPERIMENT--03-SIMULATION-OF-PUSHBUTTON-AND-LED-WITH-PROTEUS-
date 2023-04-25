@@ -101,9 +101,9 @@ int main(void)
 
 
  
-## OFF CONDITION
+## BUTTON OFF LED OFF CONDITION
 ![image](https://user-images.githubusercontent.com/94226297/234239567-f9ea09c2-1075-4c0b-8e8c-025ac3a03c30.png)
-## ON CONDITION
+## BUTTON ON LED ON CONDITION
 ![image](https://user-images.githubusercontent.com/94226297/234239664-b4dd501d-ea9f-49af-a612-0f6bfa686a61.png)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
